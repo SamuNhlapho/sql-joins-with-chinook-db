@@ -103,7 +103,7 @@ select *, SUM (Total)
 from invoices
 where CustomerId = 57
 
-select * FROM invoices
+--select * FROM invoices
 
 --*  four: Find all the playlists containing a given genre
 
